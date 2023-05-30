@@ -1,0 +1,1 @@
+prompt('I am Oleksandr')
