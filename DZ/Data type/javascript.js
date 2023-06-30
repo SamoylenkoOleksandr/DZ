@@ -35,6 +35,13 @@
 //     const result = rate * question
 //     const resultat = result.toFixed(2)
 //     alert(`Сума в гривнях дорівнює: ${resultat}`)
+// Six lisining 
+// {
+//     const question1 =prompt ('Введіть значення кольору R')
+//     const question2 =prompt ('Введіть значення кольору G')
+//     const question3 =prompt ('Введіть значення кольору B')
+//     console.log ('#' + question1 + question2  + question3)
+// }
 // }
 //  Seven lisining
 // {
