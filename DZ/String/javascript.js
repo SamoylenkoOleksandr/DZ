@@ -4,24 +4,21 @@
 // alert (`Привіт ${question}`)
 // }
 
-// two lisining
+// // two lisining
 // {
 //     let question = prompt('Задайте питання')
 //     let split = question.split(' ')
 //     let join = split.join(' , блін ')
 //     alert(join)
 // }
-// tree lisining
-{
-    let str = "cANBerRa";
-    let result = str.slise(1).toUpperCase() + str.slice(1) + 'C'.toLowerCase();
-    console.log(result); // Canberra
-    
+// // tree lisining
+// {
 
+// }
+// four lisining
+// {
 
-
-
-}
+// }
 
 
 
