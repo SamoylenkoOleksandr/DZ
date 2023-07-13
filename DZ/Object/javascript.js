@@ -27,45 +27,45 @@
 
 // Four lisining
 
-const JSONstructuration = {
-    tagName: [
-        {
-            children: [
-                {
-                    '<div>': [
-                        {
-                            '<span>': 'Enter a data please :',
-                            attrs: [
-                                {
-                                    '<br>': [
-                                        {
-                                            '<input type>': 'text',
-                                            '<id>': 'name',
-                                            '<input type>': 'text',
-                                            '<id>': 'surname',
+// const JSONstructuration = {
+//     tagName: [
+//         {
+//             children: [
+//                 {
+//                     '<div>': [
+//                         {
+//                             '<span>': 'Enter a data please :',
+//                             attrs: [
+//                                 {
+//                                     '<br>': [
+//                                         {
+//                                             '<input type>': 'text',
+//                                             '<id>': 'name',
+//                                             '<input type>': 'text',
+//                                             '<id>': 'surname',
         
                                         
-                                        }
-                                    ]
-                                }
-                            ]
+//                                         }
+//                                     ]
+//                                 }
+//                             ]
 
                             
-                        }
+//                         }
                         
-                    ],
-                    '<div>': [
-                        {
-                            '<button id>': 'ok',
-                            '<button id>': 'cansel',
+//                     ],
+//                     '<div>': [
+//                         {
+//                             '<button id>': 'ok',
+//                             '<button id>': 'cansel',
                             
-                        }
-                    ]
-                }
+//                         }
+//                     ]
+//                 }
 
-            ]
+//             ]
 
             
-        }
-    ]
-}
+//         }
+//     ]
+// }
